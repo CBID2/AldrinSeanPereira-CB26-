@@ -1,9 +1,10 @@
-- 👋 Hey amazing people, I'm *@AldrinSeanPereira*
+# 👋 Heyyy amazing people!
+## I'm @AldrinSeanPereira
 
-- 👀 I’m interested in fields such as *programming, health & learning* 
-- 🌱 I’m currently learning *C#, WPF, Git & Github*
+- 👀 My interests lie in the fields of **programming, health & learning**
+- 🌱 I’m currently learning **C#, WPF, Git, Github and contributing to Open Source**
 
-- 💞️ I’m looking to collaborate on *projects that **help me add value** to others and myself*
+- 💞️ I’m looking to collaborate on projects that **help me add value** to others and myself
 - 📫 How to reach me : 
            - Twitter: [@aaaldehyde](https://twitter.com/aaaldehyde)
            - LinkedIn: [Aldrin Sean Pereira](https://www.linkedin.com/in/aldrinseanpereira/)
