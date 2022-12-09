@@ -8,7 +8,7 @@
 - 📫 How to reach me :
   - Twitter: [@aaaldehyde](https://twitter.com/aaaldehyde)
   - LinkedIn: [Aldrin Sean Pereira](https://www.linkedin.com/in/aldrinseanpereira/)
-- You can also find me on the Eddiehub discord server 😁
+- You can also find me on the EddieHub discord server 😁
 
 <!---
 AldrinSeanPereira/AldrinSeanPereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
